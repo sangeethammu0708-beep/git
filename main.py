@@ -1,0 +1,2 @@
+def function(request):
+    return
