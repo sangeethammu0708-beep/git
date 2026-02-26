@@ -1,2 +1,2 @@
 def function(request):
-    return function
+    return function(response)
